@@ -1,0 +1,28 @@
+name: absatoutest
+favicon: null
+layout_spectrum: 0.34536217735148966
+typography_spectrum: 0.9116422401275486
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.898450035136193
+  lightness: 0.07892380421981215
+  saturation: 0.14696707017719746
+  rhythmicContrast: 0.6635934195946902
+purpose: []
